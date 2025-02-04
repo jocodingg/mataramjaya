@@ -58,7 +58,7 @@ export const statistikDesa = {
   pekerjaan: [
     { nama: 'Petani', jumlah: 1972 },
     { nama: 'Buruh Tani', jumlah: 334 },
-    { nama: 'PEdagang', jumlah: 286 },
+    { nama: 'Pedagang', jumlah: 286 },
     { nama: 'PNS', jumlah: 29 },
     { nama: 'Honorer', jumlah: 31 },
     { nama: 'TNI', jumlah: 1 },
