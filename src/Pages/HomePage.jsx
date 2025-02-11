@@ -32,8 +32,8 @@ const HomePage = () => {
       navigate(`/keripikmasfarhan/${product.id}`); // Arahkan ke ProdukKhususPage untuk produk tertentu
     } else if (product.id === 4 ) {
       navigate(`/keripikbufeb/${product.id}`); // Arahkan ke ProdukKhususPage untuk produk tertentu
-    } else if (product.id === 2 ) {
-      navigate(`/keripikbufeb/${product.id}`); // Arahkan ke ProdukKhususPage untuk produk tertentu
+    } else if (product.id === 5 ) {
+      navigate(`/tempepakpogo/${product.id}`); // Arahkan ke ProdukKhususPage untuk produk tertentu
     } else {
       navigate(`/halaman-lain/${product.id}`); // Arahkan ke HalamanLainPage untuk produk lainnya
     }
